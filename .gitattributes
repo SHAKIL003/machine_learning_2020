@@ -1,1 +1,5 @@
 model.pkl filter=lfs diff=lfs merge=lfs 
+ohe_embarked.pkl filter=lfs diff=lfs merge=lfs
+clf.pkl filter=lfs diff=lfs merge=lfs 
+ohe_sex.pkl filter=lfs diff=lfs merge=lfs
+pipe.pkl filter=lfs diff=lfs merge=lfs 
